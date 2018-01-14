@@ -1,3 +1,17 @@
+<<<<<<< HEAD
 # os generated files #
 # ################## #
 .directory
+=======
+.htaccess
+css.php
+rpc/
+sites/site*/admin/
+sites/site*/private/
+sites/site*/public/admin/
+sites/site*/public/setup/
+sites/site*/public/theme/
+textpattern/
+HISTORY.txt
+README.txt
+>>>>>>> d38adb8807b244df5df9045af96ebe27e09afa3d
