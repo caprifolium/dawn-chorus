@@ -1,3 +1,4 @@
 # dawn-chorus
 The creation of a first repository and a learning experience.
-Editing ths readme.md file in the "dawn-chorus" repository.
+Editing this readme.md file in the "dawn-chorus" repository.
+Sign-in. Correct spelling. Try out use of direct editing facility.
