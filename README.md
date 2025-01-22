@@ -3,7 +3,7 @@ The creation of a first repository and a learning experience.
 Editing this readme.md file in the "dawn-chorus" repository.
 Sign-in. Correct spelling. Try out use of direct editing facility.
 
-Public site visited using password and 2fa code to ...0481. Opens to allow editing and reveals additional private repositories.
+Public site visited using password and 2FA code to ...0481. Opens to allow editing and reveals additional private repositories.
 
 Now return to CLI to study the following:
 1. Security of public code
@@ -11,3 +11,4 @@ Now return to CLI to study the following:
 3. Appropriate documents for sharing
 4. Hello from tobermory
 5. Edit from orion@Orion-Notebook jury-rigged to independent monitor. (20250121)
+6. Edit from proteus@Proteus-Notebook alone.
