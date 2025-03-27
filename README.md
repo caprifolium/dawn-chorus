@@ -12,3 +12,4 @@ Now return to CLI to study the following:
 4. Hello from tobermory
 5. Edit from orion@Orion-Notebook jury-rigged to independent monitor. (20250121)
 6. Edit from proteus@Proteus-Notebook alone.
+7. Library sign in.
