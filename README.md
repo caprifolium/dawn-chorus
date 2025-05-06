@@ -5,9 +5,9 @@ A public facing repository of data to use with the QGIS database. Keep documents
 
 # dawn-chorus
 The creation of a first repository and a learning experience.
-Editing this README.md file in the "dawn-chorus" repository.
+Editing this README.md document in the public facing "dawn-chorus" repository.
 
-Sign-in. Correct spelling. Try out use of direct editing facility.
+Sign-in. Correct spelling. Try out use of direct editing facility. Difficult, use 'kate'.
 
 Public site visited using password and 2FA code to ...0481. Opens to allow editing and reveals additional private repositories.
 
