@@ -1,6 +1,12 @@
+# caprifolium
+If this is not what you were expecting and you arrived here from a search engine, then retry with caprifolium, uppercase "C".
+
+A public facing repository of data to use with the QGIS database. Keep documents small, nothing bigger than a map layer or *pdf.
+
 # dawn-chorus
 The creation of a first repository and a learning experience.
-Editing this readme.md file in the "dawn-chorus" repository.
+Editing this README.md file in the "dawn-chorus" repository.
+
 Sign-in. Correct spelling. Try out use of direct editing facility.
 
 Public site visited using password and 2FA code to ...0481. Opens to allow editing and reveals additional private repositories.
