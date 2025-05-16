@@ -7,7 +7,7 @@ A public facing repository of data to use with the QGIS database. Keep documents
 The creation of a first repository and a learning experience.
 Editing this README.md document in the public facing "dawn-chorus" repository. Replaced default branch 'main' with working branch 'first-light'.
 
-Sign-in. Correct spelling. Try out use of direct editing facility. Difficult, use 'kate'.
+Sign-in. Correct spelling. Try out use of direct editing facility. Difficult, use 'kate'. wellington connects but tobermory does not.
 
 Public site visited using password and 2FA code to ...0481. Opens to allow editing and reveals additional private repositories.
 
