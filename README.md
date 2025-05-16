@@ -16,9 +16,7 @@ Now return to CLI to study the following:
 2. Develop instruction set
 3. Appropriate documents for sharing
 4. Hello from tobermory
-5. Edit from orion@Orion-Notebook jury-rigged to independent monitor. (20250121)
-6. Edit from proteus@Proteus-Notebook alone.
+5. Edit from tobermory@Orion-Notebook jury-rigged to independent monitor. (20250121)
+6. Edit from wellington@Proteus-Notebook alone.
 7. Library sign in.
 
-| use as | ext4 | ext4 | swap | ext4| ext4 | ext2 |
-| mount point| /home| / | saap| /tmp| /var| /boot|
