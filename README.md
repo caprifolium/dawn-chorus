@@ -12,7 +12,7 @@ Sign-in. Correct spelling. Try out use of direct editing facility. Difficult, us
 Public site visited using password and 2FA code to ...0481. Opens to allow editing and reveals additional private repositories.
 
 Now return to CLI to study the following:
-1. Security of public code
+1. Security of public code. Github Docs > [About Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 2. Develop instruction set
 3. Appropriate documents for sharing
 4. Hello from tobermory
