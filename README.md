@@ -5,11 +5,13 @@ A public facing repository of data to use with the QGIS database. Keep documents
 
 # dawn-chorus
 The creation of a first repository and a learning experience.
-Editing this README.md document in the public facing "dawn-chorus" repository. Replaced default branch 'main' with working branch 'first-light'.
+Editing this README.md document in the public facing "dawn-chorus" repository.
+
+Replaced default branch 'main' with working branch 'first-light'. Just because.
 
 Sign-in. Correct spelling. Try out use of direct editing facility. Difficult, use 'kate'. wellington connects but tobermory does not.
 
-Public site visited using password and 2FA code to ...0481. Opens to allow editing and reveals additional private repositories.
+Private site visited using password and 2FA code to ...0481. Sign-in opens to allow editing and reveals additional private repositories.
 
 Now return to CLI to study the following:
 1. Security of public code. Github Docs > [About Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
