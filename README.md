@@ -19,6 +19,8 @@ Now return to CLI to study the following:
 5. Edit from tobermory@Orion-Notebook jury-rigged to independent monitor. (20250121)
 6. Edit from wellington@Proteus-Notebook alone.
 7. Library sign in.
-8. :~/Documents/Org_Repository/Org_Tracking$ git clone https://github.com/caprifolium/dawn-chorus.git
+8. :~/Documents/Org_Repository/Org_Tracking
 
-Cloned dawn-chorus into Org_Tracking directory. Action creates new directory "dawn-chorus".
+>$ git clone https://github.com/caprifolium/dawn-chorus.git
+
+Cloned dawn-chorus into Org_Tracking directory. Action creates new sub-directory "dawn-chorus".
