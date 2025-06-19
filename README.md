@@ -26,3 +26,13 @@ Now return to CLI to study the following:
 >$ git clone https://github.com/caprifolium/dawn-chorus.git
 
 That is just the clipboard contents, 'Green Button' above. Cloned dawn-chorus into Org_Tracking directory. Action creates new sub-directory "dawn-chorus".
+
+## Motherboard form factor
+
+
+|Form factor|Dimensions (mm)|Ram slots|PCIe slots|Typical use case|
+|---|---|---|---|---|
+|Micro-ATX |244 x 244 |	Up to 4 |	Fewer |	Budget Builds|
+|Mini-ITX |	170 x 170 |	Up to 2 |	1 |	Compact PCs|
+
+
