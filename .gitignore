@@ -17,4 +17,8 @@ README.txt
 >>>>>>> d38adb8807b244df5df9045af96ebe27e09afa3d
 
 # 20250621 Do not add or commit these documents
+# password manager files
 *.kdbx
+# kate document system files
+.kate-swp
+
