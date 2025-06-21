@@ -1,7 +1,7 @@
 # caprifolium
-If this is not what you were expecting and you arrived here from a search engine, then retry with caprifolium, uppercase "C".
+If the search engine directs here and this repository is unexpected, then retry the search with caprifolium, uppercase "C".
 
-A public facing repository of data to use with the QGIS database. Keep documents small, nothing bigger than a map layer or *pdf.
+Experimental. A public facing repository of nonsence data to use with the QGIS database. Keep documents small, nothing bigger than a map layer or *pdf.
 
 # dawn-chorus
 The creation of a first repository and a learning experience.
@@ -9,7 +9,7 @@ Editing this README.md document in the public facing "dawn-chorus" repository.
 
 Replaced default branch 'main' with working branch 'first-light'. Just because.
 
-Sign-in. Correct spelling. Try out use of direct editing facility. Difficult, use 'kate'. wellington connects but tobermory does not.
+Sign-in. Correct spelling. Try out use of direct editing facility. Difficult, use 'kate'. wellington connects but tobermory does not. These comments should be in the document commit log.
 
 Private site visited using password and 2FA code to ...0481. Sign-in opens to allow editing and reveals additional private repositories.
 
