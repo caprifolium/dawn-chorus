@@ -28,7 +28,7 @@ Now return to CLI to study the following:
 That is just the clipboard contents, 'Green Button' above. Cloned dawn-chorus into Org_Tracking directory. Action creates new sub-directory "dawn-chorus".
 
 ## Choose Motherboard for Ninevah project
-[Form factors](first-light/docs#20250619)
+[Form factors](first-light/docs/README.md#Motherboard)
 
 ## Motherboard form factor
 
