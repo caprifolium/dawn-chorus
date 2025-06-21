@@ -20,5 +20,5 @@ README.txt
 # password manager files
 *.kdbx
 # kate document system files
-.kate-swp
+*.kate-swp
 
