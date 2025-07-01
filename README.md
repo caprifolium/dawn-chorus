@@ -16,7 +16,7 @@ Private site visited using password and 2FA code to ...0481. Sign-in opens to al
 Now return to CLI to study the following:
 1. Security of public code. Github Docs > [About Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 2. Develop instruction set > [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-3. Appropriate documents for sharing
+3. Appropriate documents for sharing. A common place book.
 4. Hello from tobermory
 5. Edit from tobermory@Orion-Notebook jury-rigged to independent monitor. (20250121)
 6. Edit from wellington@Proteus-Notebook alone.
@@ -28,6 +28,7 @@ Now return to CLI to study the following:
 That is just the clipboard contents, 'Green Button' above. Cloned dawn-chorus into Org_Tracking directory. Action creates new sub-directory "dawn-chorus".
 
 ## Choose Motherboard for Ninevah project
+
 [Form factors](docs/README.md#Motherboard)
 
 ## Motherboard form factor
