@@ -1,7 +1,7 @@
 # caprifolium
 If the search engine directs here and this repository is unexpected, then retry the search with caprifolium, uppercase "C".
 
-Experimental. A public facing repository of nonsence data to use with the QGIS database. Keep documents small, nothing bigger than a map layer or *pdf.
+Experimental. A public facing repository of nonsense data to use with the QGIS database. Keep documents small, nothing bigger than a map layer or *pdf.
 
 # dawn-chorus
 The creation of a first repository and a learning experience.
