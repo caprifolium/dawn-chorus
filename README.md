@@ -1,9 +1,9 @@
 # caprifolium
-If the search engine directs here and this repository is unexpected, then retry the search with caprifolium, uppercase "C".
+If the search engine directs here and this repository is not expected, then retry the search with caprifolium, uppercase "C".
 
 Experimental. A public facing repository of nonsense data to use with the QGIS database. Keep documents small, nothing bigger than a map layer or *pdf.
 
-Creating real mess, working on branch ...?
+Creating real mess, working on branch ...? Several merges until clear but no clear lesson learnt.
 
 # dawn-chorus
 The creation of a first repository and a learning experience.
@@ -15,15 +15,15 @@ Sign-in. Correct spelling. Try out use of direct editing facility. Difficult, us
 
 Private site visited using password and 2FA code to ...0481. Sign-in opens to allow editing and reveals additional private repositories.
 
-Now return to CLI to study the following:
+Now return to CLI and make a study the following:
 1. Security of public code. Github Docs > [About Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 2. Develop instruction set > [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 3. Appropriate documents for sharing. A common place book.
-4. Hello from tobermory
+4.
 5. Edit from tobermory@Orion-Notebook jury-rigged to independent monitor. (20250121)
 6. Edit from wellington@Proteus-Notebook alone.
 7. Library sign in.
-8. :~/Documents/Org_Repository/Org_Tracking
+8. :~/Documents/Org_Repository/Org_Tracking/dawn-chorus/
 
 >$ git clone https://github.com/caprifolium/dawn-chorus.git
 
